@@ -121,3 +121,5 @@ while eleccion != 7: #el usuario debe poner un numero menor o igual a 7 para ele
           #salir
     if eleccion == 7: #si el usuario ingresa 7 saldra de la calculadora 
         print("apagada")
+
+        #final
