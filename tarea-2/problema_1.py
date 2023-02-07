@@ -13,4 +13,4 @@ if numero < 0:  #si el numero es menor que cero dara error
 if numero > 0 :
     print("factorial:",factorial)
 
-# imprime el factorial
+
