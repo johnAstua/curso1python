@@ -10,3 +10,6 @@ print (lista_final1)
 lista_final2= list(set(lista_2)) 
 #imprimir lista 2 sin repetidos
 print (lista_final2)
+
+
+
